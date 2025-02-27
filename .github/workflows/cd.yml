@@ -19,7 +19,6 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: apps/backend
 
     steps:
       - name: Checkout code
